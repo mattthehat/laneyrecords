@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Dosis';
+    src: url('/fonts/dosis.woff2') format('woff2'),
+        url('/fonts/dosis.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+* {
+    font-family: 'Dosis', sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 1.5em;
+}
+
+p {
+    font-size: 1.3em;
+    margin-bottom: 1em;
+}
